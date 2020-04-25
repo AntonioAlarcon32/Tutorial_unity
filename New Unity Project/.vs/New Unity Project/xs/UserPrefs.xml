@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Wall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="150" Column="54" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="17" Column="34" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="62" Column="72" />
+      <File FileName="Assets/Scripts/SoundManager.cs" Line="42" Column="6" />
+      <File FileName="Assets/Scripts/Wall.cs" Line="24" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Wall.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d32f72b6-3a1e-49d7-bb2a-4dacea332408" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
